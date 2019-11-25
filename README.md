@@ -48,7 +48,12 @@ Date or Timestamp is necessary data type to process ML insight.
 11. Click run nows and wait for few minutes, it shows the anomaly by auto detection
 <img width="600" alt="anomaly" src="https://user-images.githubusercontent.com/48192505/69524279-a07dbb80-0fa0-11ea-9d3e-a9fab2213a9d.PNG">
 
-12. You can also use explore anomalies to find other anomalies
+12. Use explore anomalies to find other anomalies
 <img width="600" alt="other_anomaly" src="https://user-images.githubusercontent.com/48192505/69524543-387ba500-0fa1-11ea-8276-37318f2e8cf3.PNG">
 
+13. Use analyze contribution to find other features
+<img width="600" alt="analyze_contribution" src="https://user-images.githubusercontent.com/48192505/69528249-d9219300-0fa8-11ea-8760-524aab70a276.PNG">
+                                                                                                                                         
+14. Create your own QuickSight dashboard with ML insight
+<img width="600" alt="supermarket_analytics_dashboard" src="https://user-images.githubusercontent.com/48192505/69531284-95318c80-0fae-11ea-911d-ed94fd1daddb.png">
 
