@@ -21,7 +21,7 @@ Date or Timestamp is necessary data type to process ML insight.
 4. If you do not need filter, save and visualize
 <img width="600" alt="visualize" src="https://user-images.githubusercontent.com/48192505/69515543-dc595680-0f89-11ea-87fe-511b544b06af.PNG">
 
-5. Click add and select add insight, use AutoGraph or Line chart, choose Date for X axis and Total(Sum) for Value
+5. Click add and select add insight, choose Date for X axis and Total(Sum) for Value, use AutoGraph, Line chart or Insight
 
 - **Date or Timestamp is necessary data type to process ML insight.**
 <img width="600" alt="insight" src="https://user-images.githubusercontent.com/48192505/69517580-23e2e100-0f90-11ea-95c7-6c77d591cabf.PNG">
@@ -45,4 +45,10 @@ Date or Timestamp is necessary data type to process ML insight.
     - **Amazon QuickSight runs anomaly detection on the following combinations hierarchically: A, AB, ABC. If you choose this option, Amazon QuickSight analyzes all combinations: A, AB, ABC, BC, AC.If your data isn't hierarchical, make sure to enable this option.**
 <img width="600" alt="set_anomaly_detection" src="https://user-images.githubusercontent.com/48192505/69520507-dd918000-0f97-11ea-80c1-492e09968586.PNG">
 
-11. Click run nows and wait for few minutes, 
+11. Click run nows and wait for few minutes, it shows the anomaly by auto detection
+<img width="600" alt="anomaly" src="https://user-images.githubusercontent.com/48192505/69524279-a07dbb80-0fa0-11ea-9d3e-a9fab2213a9d.PNG">
+
+12. You can also use explore anomalies to find other anomalies
+<img width="600" alt="other_anomaly" src="https://user-images.githubusercontent.com/48192505/69524543-387ba500-0fa1-11ea-8276-37318f2e8cf3.PNG">
+
+
