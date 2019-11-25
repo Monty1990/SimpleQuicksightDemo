@@ -23,8 +23,11 @@ Date or Timestamp is necessary data type to process ML insight.
 
 5. Click add and select add insight, use AutoGraph or Line chart, choose Date for X axis and Total(Sum) for Value
 
-   - **Date or Timestamp is necessary data type to process ML insight.**
+- **Date or Timestamp is necessary data type to process ML insight.**
 <img width="600" alt="insight" src="https://user-images.githubusercontent.com/48192505/69517580-23e2e100-0f90-11ea-95c7-6c77d591cabf.PNG">
+
+- **It is also can show forecast by text.**
+<img width="600" alt="text_forecasting" src="https://user-images.githubusercontent.com/48192505/69522270-f00db880-0f9b-11ea-982e-605ca9c7d97e.PNG">
 
 6. Click the top right button of insight, select add forecast
 <img width="600" alt="add_forecast" src="https://user-images.githubusercontent.com/48192505/69519392-e46ac380-0f94-11ea-807b-c84ca27a2347.PNG">
@@ -32,7 +35,7 @@ Date or Timestamp is necessary data type to process ML insight.
 7. Enter the periods forward, set the percentage of prediction interval and apply
 <img width="600" alt="forecast" src="https://user-images.githubusercontent.com/48192505/69519431-f9475700-0f94-11ea-8228-420529c5c65c.PNG">
 
-8. Click insight and select anomaly detection
+8. Click add insight and select anomaly detection
 <img width="600" alt="add_anomaly_detection" src="https://user-images.githubusercontent.com/48192505/69519693-a15d2000-0f95-11ea-8d58-e5fe759a83fc.PNG">
 
 9. Choose the field of time, value and categories and click get started
